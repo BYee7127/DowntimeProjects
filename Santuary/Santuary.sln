@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Reso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2D", "Vector2D\Vector2D.csproj", "{E4B70904-6882-4FB6-AB95-0B3948725AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanctuary", "Sanctuary\Sanctuary.csproj", "{9E43539F-9B10-4926-8C54-7FAE17109C1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "Sanctuary\View.csproj", "{9E43539F-9B10-4926-8C54-7FAE17109C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

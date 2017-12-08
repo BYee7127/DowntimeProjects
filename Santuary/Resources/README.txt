@@ -2,6 +2,13 @@
 Author:		Carmen Yu
 
 Created - December 8, 2017 12:27
+View
+	Initialize the form
+	Initialize all the member variables, if any
+	Call to add a menu to the panel
+		All Menu is is a blank/colored background with a title and a start button
+
+
 Project Sanctuary
 	Startup project/View of the solution
 	Form1.cs -> Sanctuary.cs
