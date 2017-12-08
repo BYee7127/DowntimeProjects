@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Reso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2D", "Vector2D\Vector2D.csproj", "{E4B70904-6882-4FB6-AB95-0B3948725AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanctuary", "Sanctuary\Sanctuary.csproj", "{9E43539F-9B10-4926-8C54-7FAE17109C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,13 +16,16 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C3A52E4E-E251-4410-A577-5E2711B8DFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3A52E4E-E251-4410-A577-5E2711B8DFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3A52E4E-E251-4410-A577-5E2711B8DFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3A52E4E-E251-4410-A577-5E2711B8DFAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E4B70904-6882-4FB6-AB95-0B3948725AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E4B70904-6882-4FB6-AB95-0B3948725AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B70904-6882-4FB6-AB95-0B3948725AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B70904-6882-4FB6-AB95-0B3948725AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
