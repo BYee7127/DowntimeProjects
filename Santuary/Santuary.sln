@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector2D", "Vector2D\Vector
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "Sanctuary\View.csproj", "{9E43539F-9B10-4926-8C54-7FAE17109C1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{332FC983-653C-441A-9AC0-2FF1C67890E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E43539F-9B10-4926-8C54-7FAE17109C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332FC983-653C-441A-9AC0-2FF1C67890E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332FC983-653C-441A-9AC0-2FF1C67890E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332FC983-653C-441A-9AC0-2FF1C67890E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332FC983-653C-441A-9AC0-2FF1C67890E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

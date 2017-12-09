@@ -4,10 +4,16 @@ Author:		Carmen Yu
 Created - December 8, 2017 12:27
 View
 	Initialize the form
-	Initialize all the member variables, if any
+	Initialize all the member variables, if any - use a helper method if too many
 	Call to add a menu to the panel
 		All Menu is is a blank/colored background with a title and a start button
+		Background color should be a lawn green or a darker green
+		Extends panel so it can use the double buffered feature
 
+Recall:
+	View is what the user sees
+	Controller takes in the user's input
+	Model is where the majority of the work takes place
 
 Project Sanctuary
 	Startup project/View of the solution
